@@ -1,0 +1,80 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* header  */
+
+.headerClass {
+    display: flex;
+    justify-content: space-around;
+    background-color: rebeccapurple;
+    align-items: center;
+}
+
+.headerImage > img {
+    max-width: 100%;
+    max-height: 100%;
+    height: 100px;
+    width: 200px;
+}
+
+.headerTitle{
+    color: white;
+    font-size: 25px;
+}
+
+.headerScore{
+    display: block; 
+}
+
+.score{
+    margin-bottom: 10px;
+}
+
+.score, .highscore {
+    font-size: 20px;
+}
+
+/* body  */
+
+
+body{
+    background-image: url('./images/moroccan-flower-dark.png');
+    background-color: rgb(30, 3, 54);
+}
+
+.listDiv {
+    margin-left: 80px;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 300px);
+    grid-gap: 20px;
+    
+}
+
+.foodDiv {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.listButton{
+    border-radius: 15px;
+}
+
+.listButton > img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.listFood{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
