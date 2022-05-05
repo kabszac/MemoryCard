@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MemoryCard/static/css/main.3c85cee8.css",
+    "main.css": "/MemoryCard/static/css/main.57c4fb7c.css",
     "main.js": "/MemoryCard/static/js/main.87f62d92.js",
     "static/media/moroccan-flower-dark.png": "/MemoryCard/static/media/moroccan-flower-dark.8fffdc8df6ecbaeb111f.png",
     "static/media/mukimo.jpg": "/MemoryCard/static/media/mukimo.c5b16d37597a88835e6a.jpg",
@@ -12,11 +12,11 @@
     "static/media/kachumbari.jpeg": "/MemoryCard/static/media/kachumbari.8ccb928b0f4ca94d50e8.jpeg",
     "static/media/nyamachoma.jpeg": "/MemoryCard/static/media/nyamachoma.01ef7dfb2c6ab411f638.jpeg",
     "index.html": "/MemoryCard/index.html",
-    "main.3c85cee8.css.map": "/MemoryCard/static/css/main.3c85cee8.css.map",
+    "main.57c4fb7c.css.map": "/MemoryCard/static/css/main.57c4fb7c.css.map",
     "main.87f62d92.js.map": "/MemoryCard/static/js/main.87f62d92.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c85cee8.css",
+    "static/css/main.57c4fb7c.css",
     "static/js/main.87f62d92.js"
   ]
 }
